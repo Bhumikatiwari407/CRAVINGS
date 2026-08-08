@@ -457,6 +457,8 @@ const Home = () => {
             onClick={() => navigate("/register")}
             className="bg-(--color-base-100) text-(--color-primary) px-8 py-3 rounded-lg font-semibold hover:bg-(--color-base-200) transition"
           >
+
+            
             Partner With Us
           </button>
         </div>
