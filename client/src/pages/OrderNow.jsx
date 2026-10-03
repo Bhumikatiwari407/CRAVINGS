@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import api from "../config/ApiConfig";
 import toast from "react-hot-toast";
 import Loader from "../components/Loader";
-import NoDataFound from "../components/NoDataFound";
+import NoDataFound from "../components/NodataFound";
 import defaultRestaurantImage from "../assets/Samplerestaurant.jpg";
 
 const OrderNow = () => {
